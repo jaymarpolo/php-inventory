@@ -1,0 +1,38 @@
+.table-wrapper{
+  margin: 15px 30px;
+}
+.navbar{
+  margin-bottom: 20px;
+}
+.container-fluid {
+    width: auto;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.alert{
+	padding: 0;
+	margin: 0;
+	width: auto;
+}
+.modal-content{
+	width: 90%;
+	padding: 10px;
+	line-height: .8rem;
+	font-weight: 300;
+}
+.modal-body{
+	font-size: 15px;
+}
+.form-group .form-control{
+	padding: .200rem;
+	line-height: 1.5rem;
+}
+.box-title{
+	padding-bottom: 20px;
+}
+.btn-cat:hover{
+	background: white;
+}
+.btn-cat{
+	background: white;	
+}
