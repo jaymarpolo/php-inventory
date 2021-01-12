@@ -1,2 +1,2 @@
 # Inventory
-this is my first school project
+This is my first school project. It's a local web based inventory system.
