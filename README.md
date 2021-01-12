@@ -1,1 +1,1 @@
- inventory
+this is my first school project
